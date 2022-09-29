@@ -1,6 +1,6 @@
 # cupertino_bmi
 <div style='float:left'>
-  <img src='assets/screenshot/screenshot-1.png' widht=300/>
+  <img src='assets/screenshot/screenshot-1.png' width=300/>
   <img src='assets/screenshot/screenshot-2.png' width=300/>
   <img src='assets/screenshot/screenshot-3.png' width=300/>
 </div>
